@@ -1,0 +1,17 @@
+{
+    "Old" : {
+        "Name" : "Alex",
+        "Phone" : "0049 12345",
+        "Street" : "Schönhauser Allee",
+        "Zip" : "54321",
+        "City" : "Berlin"
+    },
+
+    "New" : {
+        "Name" : "Alex",
+        "Phone" : "0049 55555",
+        "Street" : "Moritzplatz 3",
+        "Zip" : "54321",
+        "City" : "Berlin"
+    }
+}
